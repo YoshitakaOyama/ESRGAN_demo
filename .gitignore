@@ -1,0 +1,20 @@
+# folder
+.vscode
+
+# file type
+*.svg
+*.pyc
+*.pth
+*.t7
+*.caffemodel
+*.mat
+*.npy
+
+# sample images
+color/
+
+# _pycache_
+__pycache__
+
+# figures
+figures/
